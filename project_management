@@ -1,0 +1,59 @@
+Project Management Assignment
+
+Introduction:
+In this assignment, you are required to break down an epic related to a mortgage loan application platform into features and write detailed user stories. This exercise aims to evaluate your understanding of product management and project management principles, as well as your ability to translate high-level requirements into actionable tasks.
+
+Epic:
+Title: Enhance Mortgage Loan Application Platform with Consumer Loan Approval Feature
+
+Description:
+The goal of this epic is to add a new feature to our mortgage application platform that allows consumers to get approved for a loan. This includes providing an interface for consumers to input their details, an interface for consumers to upload documents, a system to evaluate eligibility for the loan based on the provided details and uploaded documents, and notifications to both consumers and loan officers about the approval status.
+
+Task:
+You must decompose the given epic into features and write user stories for each feature. Each user story should follow the format: As a <user role>, I want <goal> so that <reason>. Also, include acceptance criteria for each story in the format of Given, When and Then.
+
+Steps to Implement:
+
+1. Identify Features:
+   Break down the epic into smaller, manageable features. For example:
+   - Consumer Information Input
+   
+2. Write User Stories:
+   For each identified feature, write detailed user stories that capture the functionality from a end user perspective.
+
+3. Define Acceptance Criterias:
+   Specify clear acceptance criteria for each user story to ensure the feature meets the requirements.
+
+Example:
+Feature: Consumer Information Input
+
+User Story 1:
+As a consumer, I want to input my personal and financial details into the mortgage loan application platform so that I can apply for approval.
+
+Acceptance Criteria:
+Mention the acceptance criteria in the format of Given, When and Then with the following points:
+- The input form should include fields for name, email, phone number, address, income, and employment details.
+- The form should have validation to ensure all mandatory fields are filled out correctly.
+- Upon submission, the system should save the data and confirm receipt to the consumer.
+
+
+Bonus Points
+1. Prioritization (2 points):
+   Prioritize the user stories based on their impact and dependencies.
+
+2. Wireframe Creation (4 points):
+   Create wireframes for the input form and notification emails.
+
+3. Risk Assessment (2 points):
+   Identify potential risks associated with the implementation of each feature and propose mitigation strategies.
+
+4. Timeline Estimation (4 points):
+   Provide a rough timeline for the development and deployment of the features, including milestones.
+
+Submission
+Please submit your assignment as a document with the following sections:
+- Features Identification
+- User Stories with Acceptance Criteria
+- Bonus Points (if attempted)
+
+Good luck!
